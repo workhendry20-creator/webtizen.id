@@ -19,9 +19,9 @@
 - [x] **Task 1.4**: Inisialisasi Git repo lokal dan push commit perdana ke `https://github.com/workhendry20-creator/webtizen.id.git`.
 
 ### Phase 2: Core Components Development
-- [ ] **Task 2.1**: Buat komponen `TypingLoopHero.tsx` (Typing Text Intro + Scroll Cue Button).
-- [ ] **Task 2.2**: Buat reusable UI component `GlassCard.tsx` dengan efek hover glow (`#548062` / `#70A591`).
-- [ ] **Task 2.3**: Buat reusable UI component `Button.tsx` sesuai panduan warna `design.md`.
+- [x] **Task 2.1**: Buat komponen `TypingLoopHero.tsx` (Typing Text Intro + Scroll Cue Button).
+- [x] **Task 2.2**: Buat reusable UI component `GlassCard.tsx` dengan efek hover glow (`#548062` / `#70A591`).
+- [x] **Task 2.3**: Buat reusable UI component `Button.tsx` sesuai panduan warna `design.md`.
 
 ### Phase 3: Purply Landing Page Sections Development
 - [ ] **Task 3.1**: Buat `HeroPurply.tsx` (Headline, Sub-headline, Dual CTA).
