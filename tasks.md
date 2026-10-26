@@ -24,12 +24,12 @@
 - [x] **Task 2.3**: Buat reusable UI component `Button.tsx` sesuai panduan warna `design.md`.
 
 ### Phase 3: Purply Landing Page Sections Development
-- [ ] **Task 3.1**: Buat `HeroPurply.tsx` (Headline, Sub-headline, Dual CTA).
-- [ ] **Task 3.2**: Buat `BentoServices.tsx` (Layout Bento Grid untuk 4 layanan utama Webtizen).
-- [ ] **Task 3.3**: Buat `PortfolioGrid.tsx` (Selected showcase dengan animasi hover).
-- [ ] **Task 3.4**: Buat `ProcessWorkflow.tsx` (4 alur pengerjaan website).
-- [ ] **Task 3.5**: Buat `InstagramSection.tsx` (Highlight `@webtizen.id` + direct link).
-- [ ] **Task 3.6**: Buat `FooterCTA.tsx` (Contact trigger WhatsApp/Email/IG & copyright).
+- [x] **Task 3.1**: Buat `HeroPurply.tsx` (Headline, Sub-headline, Dual CTA).
+- [x] **Task 3.2**: Buat `BentoServices.tsx` (Layout Bento Grid untuk 4 layanan utama Webtizen).
+- [x] **Task 3.3**: Buat `PortfolioGrid.tsx` (Selected showcase dengan animasi hover).
+- [x] **Task 3.4**: Buat `ProcessWorkflow.tsx` (4 alur pengerjaan website).
+- [x] **Task 3.5**: Buat `InstagramSection.tsx` (Highlight `@webtizen.id` + direct link).
+- [x] **Task 3.6**: Buat `FooterCTA.tsx` (Contact trigger WhatsApp/Email/IG & copyright).
 
 ### Phase 4: Integration, Smooth Scroll & Page Assembly
 - [ ] **Task 4.1**: Rakit seluruh komponen di `src/app/page.tsx` (Phase 1 Intro + Phase 2 Main Landing).
