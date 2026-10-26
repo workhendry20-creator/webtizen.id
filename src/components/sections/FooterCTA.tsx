@@ -10,7 +10,7 @@ import { Button } from "@/components/ui/Button";
 import { InstagramIcon, GithubIcon } from "@/components/ui/Icons";
 
 export function FooterCTA() {
-  const currentYear = new Date().getFullYear();
+  const currentYear = 2026;
 
   const scrollToTop = () => {
     window.scrollTo({ top: 0, behavior: "smooth" });

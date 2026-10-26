@@ -32,11 +32,11 @@
 - [x] **Task 3.6**: Buat `FooterCTA.tsx` (Contact trigger WhatsApp/Email/IG & copyright).
 
 ### Phase 4: Integration, Smooth Scroll & Page Assembly
-- [ ] **Task 4.1**: Rakit seluruh komponen di `src/app/page.tsx` (Phase 1 Intro + Phase 2 Main Landing).
-- [ ] **Task 4.2**: Implementasikan *smooth scroll behavior* dari Intro ke Hero Purply.
-- [ ] **Task 4.3**: Set SEO Metadata (Title, Description, OpenGraph, Favicon) di `src/app/layout.tsx`.
+- [x] **Task 4.1**: Rakit seluruh komponen di `src/app/page.tsx` (Phase 1 Intro + Phase 2 Main Landing).
+- [x] **Task 4.2**: Implementasikan *smooth scroll behavior* dari Intro ke Hero Purply.
+- [x] **Task 4.3**: Set SEO Metadata (Title, Description, OpenGraph, Favicon) di `src/app/layout.tsx`.
 
 ### Phase 5: Testing, Quality Assurance & Deployment Push
-- [ ] **Task 5.1**: Jalankan `npm run build` dan pastikan tidak ada TypeScript / ESLint error.
-- [ ] **Task 5.2**: Uji responsivitas pada resolusi Mobile, Tablet, dan Desktop.
-- [ ] **Task 5.3**: Push kode akhir ke `https://github.com/workhendry20-creator/webtizen.id.git`.
+- [x] **Task 5.1**: Jalankan `npm run build` dan pastikan tidak ada TypeScript / ESLint error.
+- [x] **Task 5.2**: Uji responsivitas pada resolusi Mobile, Tablet, dan Desktop.
+- [x] **Task 5.3**: Push kode akhir ke `https://github.com/workhendry20-creator/webtizen.id.git`.
